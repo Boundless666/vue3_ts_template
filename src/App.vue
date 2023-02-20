@@ -1,10 +1,7 @@
-<script setup lang="ts">
-import Test from './components/Test.vue'
-</script>
+<script setup lang="ts"></script>
 
 <template>
-	<div>hello</div>
-	<Test />
+	<RouterView></RouterView>
 </template>
 
 <style scoped></style>
